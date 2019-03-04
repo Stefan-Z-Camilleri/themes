@@ -1,10 +1,24 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rokin05/darkine-kde/master/INFO/screenshots/preview.1.png" alt="Preview Darkine KDE"/>
-  <a href="https://raw.githubusercontent.com/Rokin05/darkine-kde/master/INFO/screenshots/preview.2.png"><img src="https://raw.githubusercontent.com/Rokin05/darkine-kde/master/INFO/screenshots/thumbs/mini.preview.2.png" alt="Preview Darkine KDE"/></a> <a href="https://raw.githubusercontent.com/Rokin05/darkine-kde/master/INFO/screenshots/preview.3.png"><img src="https://raw.githubusercontent.com/Rokin05/darkine-kde/master/INFO/screenshots/thumbs/mini.preview.3.png" alt="Preview Darkine KDE"/></a> <a href="https://raw.githubusercontent.com/Rokin05/darkine-kde/master/INFO/screenshots/preview.4.png"><img src="https://raw.githubusercontent.com/Rokin05/darkine-kde/master/INFO/screenshots/thumbs/mini.preview.4.png" alt="Preview Darkine KDE"/></a>
-</p><p align="center">
-  <sup><sub>Screenshot Details: Engine: <a href="https://github.com/tsujan/Kvantum/tree/master/Kvantum">Kvantum</a> | Kvantum Theme: Darkine | Aurorae decoration: Darkine | Plasma Theme: Darkine | Icons: <a href="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme">Papirus-Adapta-Nokto</a> | Dock: <a href="https://github.com/psifidotos/Latte-Dock">Latte Dock</a></sub></sup></p>
+  <img src="https://raw.githubusercontent.com/Stefan-Z-Camilleri/themes/master/KDE/acid-dark/INFO/screenshots/preview.1.png" alt="Preview Acid-Dark KDE"/>
+  <a href="https://raw.githubusercontent.com/Stefan-Z-Camilleri/themes/master/KDE/acid-dark/INFO/screenshots/preview.2.png">
+    <img src="https://raw.githubusercontent.com/Stefan-Z-Camilleri/themes/master/KDE/acid-dark/INFO/screenshots/thumbs/mini.preview.2.png" alt="Preview Acid-Dark KDE"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/Stefan-Z-Camilleri/themes/master/KDE/acid-dark/INFO/screenshots/preview.3.png">
+    <img src="https://raw.githubusercontent.com/Stefan-Z-Camilleri/themes/master/KDE/acid-dark/INFO/screenshots/thumbs/mini.preview.3.png" alt="Preview Acid-Dark KDE"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/Stefan-Z-Camilleri/themes/master/KDE/acid-dark/INFO/screenshots/preview.4.png">
+    <img src="https://raw.githubusercontent.com/Stefan-Z-Camilleri/themes/master/KDE/acid-dark/INFO/screenshots/thumbs/mini.preview.4.png" alt="Preview Acid-Dark KDE"/>
+  </a>
+</p>
+<p align="center">
+  <sup>
+    <sub>
+      Screenshot Details: Engine: <a href="https://github.com/tsujan/Kvantum/tree/master/Kvantum">Kvantum</a> | Kvantum Theme: Acid-Dark | Aurorae decoration: Acid-Dark | Plasma Theme: Acid-Dark | Icons: <a href="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme">Papirus-Adapta-Nokto</a> | Dock: <a href="https://github.com/psifidotos/Latte-Dock">Latte Dock</a>
+    </sub>
+  </sup>
+</p>
 
-Darkine KDE - This is a theme based on [Adapta KDE](https://github.com/PapirusDevelopmentTeam/adapta-kde) for Plasma 5 desktop.
+Acid-Dark KDE - This theme is based on [Darkine KDE](https://github.com/Rokin05/darkine-kde) for Plasma 5 desktop.
 
 In this repository you'll find:
 
@@ -23,45 +37,35 @@ Use the script to install the latest version directly from this repo (independen
 #### Install
 
 ```
-wget -qO- https://raw.githubusercontent.com/Rokin05/darkine-kde/master/install.sh | sh
+wget -qO- https://raw.githubusercontent.com/Stefan-Z-Camilleri/themes/master/KDE/acid-dark/install.sh | sh
 ```
 
 
 #### Uninstall
 
 ```
-wget -qO- https://raw.githubusercontent.com/Rokin05/darkine-kde/master/install.sh | uninstall=true sh
+wget -qO- https://raw.githubusercontent.com/Stefan-Z-Camilleri/themes/master/KDE/acid-dark/install.sh | uninstall=true sh
 ```
-
-
-### Third-party packages
-
-Packages in this section are not part of the official repositories. If you have a trouble or a question please contact with package maintainer.
-
-| **Distro** | **Maintainer** | **Package** |
-|:-----------|:---------------|:------------|
-| Arch Linux | Josip Ponjavic | [darkine-kde-git](https://aur.archlinux.org/packages/darkine-kde-git/) <sup>AUR</sup> |
-
-**NOTE:** If you maintainer and want be in the list please create an issue or send a pull request.
-
 
 
 ## Recommendations
 
-- For better looking please use this pack with [Kvantum engine](https://github.com/tsujan/Kvantum/tree/master/Kvantum).
+- For better looking UI controls, please use this pack along with [Kvantum engine](https://github.com/tsujan/Kvantum/tree/master/Kvantum).
 
-  Run `kvantummanager` to choose and apply **Darkine** theme.
+  Run `kvantummanager` to choose and apply **Acid-Dark** theme.
 
-- Install [Papirus-Adapta icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) for a more consistent and beautiful experience.
+- Install the [Papirus-Adapta icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) for a more consistent and beautiful experience.
 
-- For better looking use toolbar icons without text with 22px size (for Papirus themes)
+- For better looking UI use toolbar icons without text with 22px size (for Papirus themes)
 
 
 
 ## Configuration
 
 
-<p align="center"><img src="https://raw.githubusercontent.com/Rokin05/darkine-kde/master/INFO/screenshots/thumbs/mini.lockscreen.png" alt="Darkine-KDE lockscreen"/></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Stefan-Z-Camilleri/themes/master/KDE/acid-dark/INFO/screenshots/thumbs/mini.lockscreen.png" alt="Acid-Dark KDE lockscreen"/>
+</p>
 
 #### Set the background lockscreen dark-grey :
 ```
@@ -70,9 +74,13 @@ qdbus org.kde.KWin /KWin reconfigure
 ```
 
 
-<a href="https://raw.githubusercontent.com/Rokin05/darkine-kde/master/INFO/screenshots/fonts-config.png"><p align="center"><img src="https://raw.githubusercontent.com/Rokin05/darkine-kde/master/INFO/screenshots/thumbs/mini.fonts.png" alt="Darkine-KDE fonts"/></p></a>
+<a href="https://raw.githubusercontent.com/Stefan-Z-Camilleri/themes/master/KDE/acid-dark/INFO/screenshots/fonts-config.png">
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Stefan-Z-Camilleri/themes/master/KDE/acid-dark/INFO/screenshots/thumbs/mini.fonts.png" alt="Acid-Dark KDE fonts"/>
+  </p>
+</a>
 
-#### Use the same <a href="https://raw.githubusercontent.com/Rokin05/darkine-kde/master/INFO/screenshots/fonts-config.png">fonts</a> from the screenshot :
+#### Use the same <a href="https://raw.githubusercontent.com/Stefan-Z-Camilleri/themes/master/KDE/acid-dark/INFO/screenshots/fonts-config.png">fonts</a> from the screenshot :
 ```
 # Arch :
 sudo pacman -S cantarell-fonts
@@ -91,7 +99,11 @@ kquitapp5 plasmashell && kstart5 plasmashell
 ```
 
 
-<a href="https://github.com/tsujan/Kvantum/tree/master/Kvantum"><p align="center"><img src="https://raw.githubusercontent.com/Rokin05/darkine-kde/master/INFO/screenshots/thumbs/mini.kvantum.png" alt="Darkine-KDE kvantum"/></p></a>
+<a href="https://github.com/tsujan/Kvantum/tree/master/Kvantum">
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Stefan-Z-Camilleri/themes/master/KDE/acid-dark/INFO/screenshots/thumbs/mini.kvantum.png" alt="Acid-Dark KDE kvantum"/>
+  </p>
+</a>
 
 #### Arch : How install Kvantum engine :
 
@@ -104,9 +116,13 @@ sudo pacman -S kvantum-qt5
 yaourt -S kvantum-qt5-git
 ```
 
-<a href="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme"><p align="center"><img src="https://raw.githubusercontent.com/Rokin05/darkine-kde/master/INFO/screenshots/thumbs/mini.papirus.png" alt="Darkine-KDE papirus"/></p></a>
+<a href="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme">
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Stefan-Z-Camilleri/themes/master/KDE/acid-dark/INFO/screenshots/thumbs/mini.papirus.png" alt="Acid-Dark KDE papirus"/>
+  </p>
+</a>
 
-#### How to change main colors of Papirus iconpack :
+#### How to change the main colors of Papirus iconpack :
 
 After installation of Papirus :
 
@@ -122,22 +138,16 @@ find -L $HOME/.local/share/icons/Papirus-Adapta-Nokto -name "*.svg" -exec sed -i
 
 <sup><sub>*Command execution take ~2 min with a Intel quad core</sub></sup>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Rokin05/darkine-kde/master/INFO/screenshots/thumbs/mini.changecolor.png" alt="Darkine-KDE changecolor"/></p>
-<p align="center"><sup><sub>1. The main color : #00bcd4 | 2. The backend color : #0096aa | 3. The logo color : #00424A</sub></sup></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Stefan-Z-Camilleri/themes/master/KDE/acid-dark/INFO/screenshots/thumbs/mini.changecolor.png" alt="Acid-Dark KDE changecolor"/>
+</p>
+<p align="center">
+  <sup>
+    <sub>1. The main color : #00bcd4 | 2. The backend color : #0096aa | 3. The logo color : #00424A</sub>
+  </sup>
+</p>
 
 
 ## License
 
 GNU GPL v3
- 
-
-
-
-
-
-
-
-
-
-
- 

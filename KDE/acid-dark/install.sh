@@ -2,23 +2,21 @@
 
 set -e
 
-gh_repo="darkine-kde"
-gh_desc="Darkine KDE"
+gh_repo="acid-dark"
+gh_desc="Acid Dark KDE"
+gh_base_repo="https://github.com/Stefan-Z-Camilleri/themes/tree/master/KDE/"
 
 cat <<- EOF
 
-
-    ______              _     _             
-   (______)            | |   (_)            
-    _     _ _____  ____| |  _ _ ____  _____ 
-   | |   | (____ |/ ___) |_/ ) |  _ \| ___ |
-   | |__/ // ___ | |   |  _ (| | | | | ____|
-   |_____/ \_____|_|   |_| \_)_|_| |_|_____)
-
-
+   █████╗  ██████╗██╗██████╗     ██████╗  █████╗ ██████╗ ██╗  ██╗
+  ██╔══██╗██╔════╝██║██╔══██╗    ██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝
+  ███████║██║     ██║██║  ██║    ██║  ██║███████║██████╔╝█████╔╝ 
+  ██╔══██║██║     ██║██║  ██║    ██║  ██║██╔══██║██╔══██╗██╔═██╗ 
+  ██║  ██║╚██████╗██║██████╔╝    ██████╔╝██║  ██║██║  ██║██║  ██╗
+  ╚═╝  ╚═╝ ╚═════╝╚═╝╚═════╝     ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 
   $gh_desc
-  https://github.com/Rokin05/$gh_repo
+  ${gh_base_repo}${gh_repo}
 
 
 EOF
@@ -39,20 +37,20 @@ _rm() {
 _download() {
     _msg "Getting the latest version from GitHub ..."
     wget -O "$temp_file" \
-        "https://github.com/Rokin05/$gh_repo/archive/master.tar.gz"
+        "${gh_base_repo}${gh_repo}/archive/master.tar.gz"
     _msg "Unpacking archive ..."
     tar -xzf "$temp_file" -C "$temp_dir"
 }
 
 _uninstall() {
     _msg "Deleting $gh_desc ..."
-    _rm "$PREFIX/share/aurorae/themes/Darkine"
-    _rm "$PREFIX/share/color-schemes/Darkine.colors"
-    _rm "$PREFIX/share/Kvantum/Darkine"
-    _rm "$PREFIX/share/plasma/desktoptheme/Darkine"
-    _rm "$PREFIX/share/plasma/look-and-feel/org.kde.darkine"
-    _rm "$PREFIX/share/wallpapers/Darkine"
-    _rm "$PREFIX/share/sddm/themes/Darkine"
+    _rm "$PREFIX/share/aurorae/themes/Acid-Dark"
+    _rm "$PREFIX/share/color-schemes/Acid-Dark.colors"
+    _rm "$PREFIX/share/Kvantum/Acid-Dark"
+    _rm "$PREFIX/share/plasma/desktoptheme/Acid-Dark"
+    _rm "$PREFIX/share/plasma/look-and-feel/org.kde.acid-dark"
+    _rm "$PREFIX/share/wallpapers/Acid-Dark"
+    _rm "$PREFIX/share/sddm/themes/Acid-Dark"
 }
 
 _install() {

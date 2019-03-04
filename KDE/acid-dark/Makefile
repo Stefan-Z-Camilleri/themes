@@ -15,13 +15,13 @@ install:
 	cp -R $(THEMES) $(DESTDIR)$(PREFIX)/share
 
 uninstall:
-	-rm -rf $(DESTDIR)$(PREFIX)/share/aurorae/themes/Darkine
-	-rm -r  $(DESTDIR)$(PREFIX)/share/color-schemes/Darkine.colors
-	-rm -rf $(DESTDIR)$(PREFIX)/share/Kvantum/Darkine
-	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/desktoptheme/Darkine
-	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/look-and-feel/org.kde.darkine
-	-rm -rf $(DESTDIR)$(PREFIX)/share/wallpapers/Darkine
-	-rm -rf $(DESTDIR)$(PREFIX)/share/sddm/themes/Darkine
+	-rm -rf $(DESTDIR)$(PREFIX)/share/aurorae/themes/Acid-Dark
+	-rm -r  $(DESTDIR)$(PREFIX)/share/color-schemes/Acid-Dark.colors
+	-rm -rf $(DESTDIR)$(PREFIX)/share/Kvantum/Acid-Dark
+	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/desktoptheme/Acid-Dark
+	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/look-and-feel/org.kde.acid-dark
+	-rm -rf $(DESTDIR)$(PREFIX)/share/wallpapers/Acid-Dark
+	-rm -rf $(DESTDIR)$(PREFIX)/share/sddm/themes/Acid-Dark
 
 _get_version:
 	$(eval VERSION := $(shell git show -s --format=%cd --date=format:%Y%m%d HEAD))
