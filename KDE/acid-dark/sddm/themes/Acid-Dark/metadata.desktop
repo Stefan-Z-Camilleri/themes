@@ -1,12 +1,12 @@
 [SddmGreeterTheme]
-Name=Darkine
-Description=Darkine Theme
-Author=Rokin
+Name=Acid-Dark
+Description=Acid-Dark Theme
+Author=Stefan Z Camilleri
 Copyright=
 License=CC-BY-SA
 Type=sddm-theme
 Version=1
-Website=https://github.com/Rokin05/darkine-kde
+Website=https://github.com/Stefan-Z-Camilleri/themes/tree/master/KDE/acid-dark
 Screenshot=preview.png
 MainScript=Main.qml
 ConfigFile=theme.conf

@@ -18,7 +18,6 @@ cat <<- EOF
   $gh_desc
   ${gh_base_repo}${gh_repo}
 
-
 EOF
 
 PREFIX=${PREFIX:=/usr}
@@ -32,14 +31,6 @@ _rm() {
     # removes parent directories if empty
     sudo rm -rf "$1"
     sudo rmdir -p "$(dirname "$1")" 2>/dev/null || true
-}
-
-_download() {
-    _msg "Getting the latest version from GitHub ..."
-    wget -O "$temp_file" \
-        "${gh_base_repo}${gh_repo}/archive/master.tar.gz"
-    _msg "Unpacking archive ..."
-    tar -xzf "$temp_file" -C "$temp_dir"
 }
 
 _uninstall() {
@@ -56,12 +47,12 @@ _uninstall() {
 _install() {
     _msg "Installing ..."
     sudo cp -R \
-        "$temp_dir/$gh_repo-master/aurorae" \
-        "$temp_dir/$gh_repo-master/color-schemes" \
-        "$temp_dir/$gh_repo-master/Kvantum" \
-        "$temp_dir/$gh_repo-master/plasma" \
-        "$temp_dir/$gh_repo-master/wallpapers" \
-        "$temp_dir/$gh_repo-master/sddm" \
+        "./aurorae" \
+        "./color-schemes" \
+        "./Kvantum" \
+        "./plasma" \
+        "./wallpapers" \
+        "./sddm" \
         "$PREFIX/share"
 }
 
@@ -79,7 +70,6 @@ temp_file="$(mktemp -u)"
 temp_dir="$(mktemp -d)"
 
 if [ "$uninstall" = "false" ]; then
-    _download
     _uninstall
     _install
 else

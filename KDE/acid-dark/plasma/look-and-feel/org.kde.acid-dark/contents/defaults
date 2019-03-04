@@ -2,17 +2,17 @@
 widgetStyle=kvantum
 
 [kdeglobals][General]
-ColorScheme=Darkine
+ColorScheme=Acid-Dark
 
 [kdeglobals][Icons]
 Theme=Papirus-Adapta-Nokto
 
 [plasmarc][Theme]
-name=Darkine
+name=Acid-Dark
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Darkine
+theme=__aurorae__svg__Acid-Dark
 
 [kcminputrc][Mouse]
 cursorTheme=Breeze_Snow

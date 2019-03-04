@@ -1,10 +1,10 @@
 [Desktop Entry]
-Name=Darkine
+Name=Acid-Dark
 
 
 [Desktop Entry]
-Name=Darkine
-X-KDE-PluginInfo-Author=Rokin
+Name=Acid-Dark
+X-KDE-PluginInfo-Author=Stefan Z Camilleri
 X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Depends=
 X-KDE-PluginInfo-Website=
@@ -23,7 +23,7 @@ saturation=1.7
 
 
 [Wallpaper]
-defaultWallpaperTheme=Darkine
+defaultWallpaperTheme=Acid-Dark
 defaultFileSuffix=.jpg
 defaultWidth=1920
 defaultHeight=1080
