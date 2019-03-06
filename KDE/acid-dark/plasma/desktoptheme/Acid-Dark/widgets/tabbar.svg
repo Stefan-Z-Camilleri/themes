@@ -48,7 +48,7 @@
      inkscape:current-layer="svg2" />
   <rect
      id="hint-tile-center"
-     style="opacity:0.875;fill:#008000;fill-opacity:1;stroke:none"
+     style="opacity:0.875;fill:#C6FF00;fill-opacity:1;stroke:none"
      width="41.363"
      height="41.121"
      x="-233.82"
@@ -138,28 +138,28 @@
      y="446.36" />
   <rect
      id="south-active-tab-hint-left-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
      width="6"
      height="5"
      x="266"
      y="437.36" />
   <rect
      id="south-active-tab-hint-right-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
      width="6"
      height="5"
      x="360"
      y="437.36" />
   <rect
      id="south-active-tab-hint-top-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
      width="5"
      height="8"
      x="314"
      y="432.36" />
   <rect
      id="south-active-tab-hint-bottom-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
      width="5"
      height="4"
      x="314"
@@ -214,7 +214,7 @@
      transform="matrix(0,-1,1,0,0,0)" />
   <rect
      id="east-active-tab-hint-bottom-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
      width="6"
      height="5"
      x="-366.36"
@@ -222,7 +222,7 @@
      transform="matrix(0,-1,1,0,0,0)" />
   <rect
      id="east-active-tab-hint-top-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
      width="6"
      height="5"
      x="-272.36"
@@ -239,7 +239,7 @@
   </g>
   <rect
      id="east-active-tab-hint-left-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
      width="5"
      height="8"
      x="-312.36"
@@ -247,7 +247,7 @@
      transform="matrix(0,-1,1,0,0,0)" />
   <rect
      id="east-active-tab-hint-right-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
      width="5"
      height="4"
      x="-312.36"
@@ -303,7 +303,7 @@
      transform="matrix(0,1,-1,0,0,0)" />
   <rect
      id="west-active-tab-hint-top-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
      width="6"
      height="5"
      x="266.36"
@@ -311,7 +311,7 @@
      transform="matrix(0,1,-1,0,0,0)" />
   <rect
      id="west-active-tab-hint-bottom-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
      width="6"
      height="5"
      x="360.36"
@@ -360,7 +360,7 @@
   </g>
   <rect
      id="west-active-tab-hint-right-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
      width="5"
      height="8"
      x="307.36"
@@ -368,7 +368,7 @@
      transform="matrix(0,1,-1,0,0,0)" />
   <rect
      id="west-active-tab-hint-left-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
      width="5"
      height="4"
      x="307.36"
@@ -424,7 +424,7 @@
      transform="scale(-1,-1)" />
   <rect
      id="north-focus-hint-right-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
      width="6"
      height="5"
      x="-373"
@@ -432,7 +432,7 @@
      transform="scale(-1,-1)" />
   <rect
      id="north-focus-hint-left-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
      width="6"
      height="5"
      x="-279"
@@ -449,7 +449,7 @@
   </g>
   <rect
      id="north-focus-hint-bottom-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
      width="5"
      height="8"
      x="-319"
@@ -457,7 +457,7 @@
      transform="scale(-1,-1)" />
   <rect
      id="north-focus-hint-top-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
      width="5"
      height="4"
      x="-319"

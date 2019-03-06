@@ -32,8 +32,8 @@
   <rect id="rect3860" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="4" x="24" y="31" transform="matrix(0,-10,1.3333333,0,-32.333333,257)"/>
   <path id="path3915" style="opacity:1;fill:#6d787e;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 9,7 0,10 2.666666,0 0,-10 z"/>
  </g>
- <rect id="hint-scrollbar-size" style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" width="8" height="8" x="4" y="25" rx="0" ry="8"/>
- <rect id="hint-tile-center" style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" width="1" height="1" x="7" y="13" rx="0" ry="1"/>
+ <rect id="hint-scrollbar-size" style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none" width="8" height="8" x="4" y="25" rx="0" ry="8"/>
+ <rect id="hint-tile-center" style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none" width="1" height="1" x="7" y="13" rx="0" ry="1"/>
  <rect id="background-vertical-center" style="opacity:0.001;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" width="1" height="10" x="38" y="20"/>
  <g id="background-vertical-right" transform="matrix(0.75,0,0,1,33.25,13)">
   <path id="rect3838-1" style="opacity:0.001;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="M 9,7 9,17 13,17 13,7 9,7 Z"/>

@@ -219,28 +219,28 @@
     </g>
     <rect
        id="hint-top-margin"
-       style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#C6FF00;fill-opacity:1;stroke:none"
        width="4"
        height="10"
        x="212"
        y="259" />
     <rect
        id="hint-bottom-margin"
-       style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#C6FF00;fill-opacity:1;stroke:none"
        width="4"
        height="10"
        x="212"
        y="299" />
     <rect
        id="hint-left-margin"
-       style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#C6FF00;fill-opacity:1;stroke:none"
        width="10"
        height="4"
        x="190"
        y="281" />
     <rect
        id="hint-right-margin"
-       style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#C6FF00;fill-opacity:1;stroke:none"
        width="10"
        height="4"
        x="230"
@@ -491,28 +491,28 @@
        d="m 321,323.99988 0,-10 -2,0 c -2.77,0 -5,-2.23 -5,-5 l 0,-2 -10,0 0,17 z" />
     <rect
        id="shadow-hint-right-margin"
-       style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#C6FF00;fill-opacity:1;stroke:none"
        width="10"
        height="4"
        x="378"
        y="280" />
     <rect
        id="shadow-hint-bottom-margin"
-       style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#C6FF00;fill-opacity:1;stroke:none"
        width="4"
        height="10"
        x="344"
        y="314" />
     <rect
        id="shadow-hint-left-margin"
-       style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#C6FF00;fill-opacity:1;stroke:none"
        width="10"
        height="4"
        x="304"
        y="280" />
     <rect
        id="shadow-hint-top-margin"
-       style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#C6FF00;fill-opacity:1;stroke:none"
        width="4"
        height="10"
        x="345"

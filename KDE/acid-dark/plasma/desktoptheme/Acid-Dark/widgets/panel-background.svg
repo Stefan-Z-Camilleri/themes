@@ -307,56 +307,56 @@
     </g>
     <rect
        id="shadow-hint-right-margin"
-       style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#C6FF00;fill-opacity:1;stroke:none"
        width="10"
        height="4"
        x="378"
        y="280" />
     <rect
        id="shadow-hint-bottom-margin"
-       style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#C6FF00;fill-opacity:1;stroke:none"
        width="4"
        height="10"
        x="344"
        y="314" />
     <rect
        id="shadow-hint-left-margin"
-       style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#C6FF00;fill-opacity:1;stroke:none"
        width="10"
        height="4"
        x="304"
        y="280" />
     <rect
        id="shadow-hint-top-margin"
-       style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#C6FF00;fill-opacity:1;stroke:none"
        width="4"
        height="10"
        x="345"
        y="240" />
     <rect
        id="hint-top-margin"
-       style="fill:#ff00ff;fill-opacity:1;stroke:none;opacity:1"
+       style="fill:#C6FF00;fill-opacity:1;stroke:none;opacity:1"
        width="4"
        height="2"
        x="212"
        y="252" />
     <rect
        id="hint-bottom-margin"
-       style="fill:#ff00ff;fill-opacity:1;stroke:none;opacity:1"
+       style="fill:#C6FF00;fill-opacity:1;stroke:none;opacity:1"
        width="4"
        height="2"
        x="212"
        y="314" />
     <rect
        id="hint-left-margin"
-       style="fill:#ff00ff;fill-opacity:1;stroke:none;opacity:1"
+       style="fill:#C6FF00;fill-opacity:1;stroke:none;opacity:1"
        width="2"
        height="4"
        x="183"
        y="280" />
     <rect
        id="hint-right-margin"
-       style="fill:#ff00ff;fill-opacity:1;stroke:none;opacity:1"
+       style="fill:#C6FF00;fill-opacity:1;stroke:none;opacity:1"
        width="2"
        height="4"
        x="245"

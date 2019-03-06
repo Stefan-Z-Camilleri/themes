@@ -380,7 +380,7 @@
   </defs>
   <rect
      id="hint-tile-center"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
      width="2.033"
      height="2.077"
      x="0"
@@ -389,56 +389,56 @@
      ry="2.077" />
   <rect
      id="pressed-hint-top-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
      width="2"
      height="4"
      x="34"
      y="18" />
   <rect
      id="pressed-hint-bottom-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
      width="2"
      height="4"
      x="35"
      y="33" />
   <rect
      id="pressed-hint-left-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
      width="4"
      height="2"
      x="26"
      y="28" />
   <rect
      id="pressed-hint-right-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
      width="4"
      height="2"
      x="41"
      y="27" />
   <rect
      id="normal-hint-left-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
      width="4"
      height="2"
      x="30"
      y="70" />
   <rect
      id="normal-hint-top-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
      width="2"
      height="4"
      x="39"
      y="61" />
   <rect
      id="normal-hint-bottom-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
      width="2"
      height="4"
      x="39"
      y="76" />
   <rect
      id="normal-hint-right-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
      width="4"
      height="2"
      x="45"
@@ -561,28 +561,28 @@
      d="m 29.999707,110.99995 0,1.99971 1.999771,0 0,-1.99971 c -7.46e-4,-6.7e-4 7.63e-4,0 0,0 l -1.997614,0 c -7.28e-4,0 -0.0015,-6.7e-4 -0.0022,0 z" />
   <rect
      id="section-hint-top-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
      width="2"
      height="4"
      x="36"
      y="96" />
   <rect
      id="section-hint-left-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
      width="4"
      height="2"
      x="28"
      y="105" />
   <rect
      id="section-hint-right-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
      width="4"
      height="2"
      x="43"
      y="105" />
   <rect
      id="section-hint-bottom-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
      width="2"
      height="4"
      x="36"
