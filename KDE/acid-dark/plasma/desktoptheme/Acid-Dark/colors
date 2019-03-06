@@ -103,8 +103,8 @@ ForegroundPositive=0,150,135
 ForegroundVisited=0,188,212
 
 [General]
-ColorScheme=Darkine
-Name=Darkine
+ColorScheme=Acid-Dark
+Name=Acid-Dark
 shadeSortColumn=true
 
 [KDE]

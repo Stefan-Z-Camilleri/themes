@@ -204,10 +204,10 @@
   <g
      id="hover-bottomleft"
      transform="translate(829.80716,-709.58399)"
-     style="fill:#5d3263;fill-opacity:1">
+     style="fill:#C6FF00;fill-opacity:1">
     <path
        id="path3384"
-       style="opacity:1;fill:#5d3263;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#C6FF00;fill-opacity:1;stroke:none"
        d="m -720.80709,810.58596 c -7e-5,-0.002 -7e-5,1.99803 -7e-5,1.99803 l 1.00007,0 0,-1.99803 z" />
   </g>
   <g
@@ -237,10 +237,10 @@
   <g
      id="hover-bottom"
      transform="matrix(1.9090909,0,0,1,1484.1774,-709.58399)"
-     style="fill:#5d3263;fill-opacity:1">
+     style="fill:#C6FF00;fill-opacity:1">
     <path
        id="rect3402"
-       style="opacity:1;fill:#5d3263;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#C6FF00;fill-opacity:1;stroke:none"
        d="m -719.81,810.58195 55,0 0,1.99803 -55,0 z" />
   </g>
   <g
@@ -256,10 +256,10 @@
   <g
      id="hover-bottomright"
      transform="translate(879.80713,-709.58399)"
-     style="fill:#5d3263;fill-opacity:1">
+     style="fill:#C6FF00;fill-opacity:1">
     <path
        id="path3414"
-       style="opacity:1;fill:#5d3263;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#C6FF00;fill-opacity:1;stroke:none"
        d="m -663.80709,810.58596 c -4e-5,-0.002 -4e-5,1.99803 -4e-5,1.99803 l -1.00006,0 0,-1.99803 z" />
   </g>
   <g
@@ -294,10 +294,10 @@
   <g
      id="focus-bottomleft"
      transform="translate(829.80716,-661.58399)"
-     style="fill:#5d3263;fill-opacity:1">
+     style="fill:#C6FF00;fill-opacity:1">
     <path
        id="path3440"
-       style="opacity:1;fill:#5d3263;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#C6FF00;fill-opacity:1;stroke:none"
        d="m -720.80709,810.58596 c -0.003,-0.009 -7e-5,1.99803 -7e-5,1.99803 l 1.00007,0 0,-1.99803 z" />
   </g>
   <g
@@ -327,10 +327,10 @@
   <g
      id="focus-bottom"
      transform="matrix(1.9090909,0,0,1,1484.1774,-661.58399)"
-     style="fill:#5d3263;fill-opacity:1">
+     style="fill:#C6FF00;fill-opacity:1">
     <path
        id="rect3458"
-       style="opacity:1;fill:#5d3263;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#C6FF00;fill-opacity:1;stroke:none"
        d="m -719.81,810.58195 55,0 0,1.99803 -55,0 z" />
   </g>
   <g
@@ -346,10 +346,10 @@
   <g
      id="focus-bottomright"
      transform="translate(879.80713,-661.58399)"
-     style="fill:#5d3263;fill-opacity:1">
+     style="fill:#C6FF00;fill-opacity:1">
     <path
        id="path3470"
-       style="opacity:1;fill:#5d3263;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#C6FF00;fill-opacity:1;stroke:none"
        d="m -663.80709,810.58596 -4e-5,1.99803 -0.99996,0 0,-1.99803 z" />
   </g>
   <g

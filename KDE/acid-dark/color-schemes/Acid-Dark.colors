@@ -28,7 +28,7 @@ ForegroundInactive=60,61,60
 ForegroundLink=0,188,212
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
-ForegroundNormal=94,95,94
+ForegroundNormal=200,200,200
 ForegroundPositive=0,150,135
 ForegroundVisited=0,188,212
 
@@ -42,13 +42,13 @@ ForegroundInactive=60,61,60
 ForegroundLink=61,174,230
 ForegroundNegative=237,21,21
 ForegroundNeutral=201,206,59
-ForegroundNormal=94,95,94
+ForegroundNormal=200,200,200
 ForegroundPositive=17,209,22
 ForegroundVisited=61,174,230
 
 [Colors:Selection]
-BackgroundAlternate=102,73,126
-BackgroundNormal=36,28,44
+BackgroundAlternate=0,47,28
+BackgroundNormal=0,47,28
 DecorationFocus=34,34,34
 DecorationHover=34,34,34
 ForegroundActive=252,252,252
@@ -70,7 +70,7 @@ ForegroundInactive=60,61,60
 ForegroundLink=0,188,212
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
-ForegroundNormal=145,139,158
+ForegroundNormal=200,200,200
 ForegroundPositive=0,150,135
 ForegroundVisited=0,188,212
 
@@ -84,7 +84,7 @@ ForegroundInactive=60,61,60
 ForegroundLink=0,188,212
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
-ForegroundNormal=94,95,94
+ForegroundNormal=200,200,200
 ForegroundPositive=0,150,135
 ForegroundVisited=0,188,212
 
@@ -98,17 +98,18 @@ ForegroundInactive=60,61,60
 ForegroundLink=0,188,212
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
-ForegroundNormal=94,95,94
+ForegroundNormal=200,200,200
 ForegroundPositive=0,150,135
 ForegroundVisited=0,188,212
 
 [General]
+BrowserApplication[$d]
 ColorScheme=Acid-Dark
 Name=Acid-Dark
 shadeSortColumn=true
 
 [KDE]
-contrast=4
+contrast=5
 
 [WM]
 activeBackground=26,26,26

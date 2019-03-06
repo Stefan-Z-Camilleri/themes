@@ -55,7 +55,7 @@
        style="line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;solid-color:#000000;solid-opacity:1;stroke-width:2;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto">
       <path
          id="path1800"
-         style="color-interpolation-filters:linearRGB;fill:#5d3263;fill-opacity:1"
+         style="color-interpolation-filters:linearRGB;fill:#C6FF00;fill-opacity:1"
          d="m 105.5,200 c -4.40644,0 -7.999995,3.59356 -8,8 5e-6,4.40644 3.59356,8 8,8 4.40643,0 8,-3.59357 8,-8 0,-4.40643 -3.59357,-8 -8,-8 z" />
       <path
          id="use3869"
@@ -64,7 +64,7 @@
     </g>
     <circle
        id="path6309-3"
-       style="fill:#5d3263;stroke-width:1.52900004;fill-opacity:1"
+       style="fill:#C6FF00;stroke-width:1.52900004;fill-opacity:1"
        cx="105.5"
        cy="208"
        r="3" />
@@ -74,7 +74,7 @@
      transform="translate(-256.5,-200)">
     <rect
        id="use3879"
-       style="color:#000000;fill:#5d3263;stroke:none;fill-opacity:1"
+       style="color:#000000;fill:#C6FF00;stroke:none;fill-opacity:1"
        width="16"
        height="16"
        x="272.5"

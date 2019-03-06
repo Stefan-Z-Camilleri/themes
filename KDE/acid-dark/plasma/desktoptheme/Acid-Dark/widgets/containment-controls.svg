@@ -100,7 +100,7 @@
          offset="0" />
       <stop
          id="stop4307"
-         style="stop-color:#5d3263;stop-opacity:1"
+         style="stop-color:#C6FF00;stop-opacity:1"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -111,7 +111,7 @@
          offset="0" />
       <stop
          id="stop4295"
-         style="stop-color:#5d3263;stop-opacity:1"
+         style="stop-color:#C6FF00;stop-opacity:1"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -308,24 +308,24 @@
   <g
      id="vertical-centerindicator"
      transform="translate(1,15)"
-     style="fill:#641d7e;fill-opacity:1">
+     style="fill:#C6FF00;fill-opacity:1">
     <rect
        id="rect4223-8"
-       style="opacity:0.2;fill:#641d7e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="opacity:0.2;fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        width="42"
        height="1"
        x="11"
        y="32" />
     <rect
        id="rect4209-5"
-       style="opacity:1;fill:#641d7e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="opacity:1;fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        width="42"
        height="1"
        x="11"
        y="33" />
     <rect
        id="rect2706-6"
-       style="opacity:1;fill:#641d7e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="opacity:1;fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        width="42"
        height="1"
        x="11"
@@ -334,10 +334,10 @@
   <g
      id="horizontal-centerindicator"
      transform="translate(-4,17)"
-     style="fill:#641d7e;fill-opacity:1">
+     style="fill:#C6FF00;fill-opacity:1">
     <rect
        id="rect4227-2"
-       style="opacity:0.2;fill:#641d7e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="opacity:0.2;fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        width="42"
        height="1"
        x="-31"
@@ -345,7 +345,7 @@
        transform="matrix(0,-1,1,0,0,0)" />
     <rect
        id="rect4229-5"
-       style="opacity:1;fill:#641d7e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="opacity:1;fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        width="42"
        height="1"
        x="-31"
@@ -353,7 +353,7 @@
        transform="matrix(0,-1,1,0,0,0)" />
     <rect
        id="rect2721-2"
-       style="opacity:1;fill:#641d7e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="opacity:1;fill:#C6FF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        width="42"
        height="1"
        x="-31"
