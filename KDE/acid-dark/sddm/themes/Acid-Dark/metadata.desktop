@@ -12,5 +12,5 @@ MainScript=Main.qml
 ConfigFile=theme.conf
 TranslationsDirectory=translations
 Email=
-Theme-Id=Darkine
+Theme-Id=Acid-Dark
 Theme-API=2.0

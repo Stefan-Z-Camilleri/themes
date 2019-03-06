@@ -59,8 +59,8 @@ _install() {
 _cleanup() {
     _msg "Clearing cache ..."
     rm -rf "$temp_file" "$temp_dir" \
-        ~/.cache/plasma-svgelements-Darkine* \
-        ~/.cache/plasma_theme_Darkine*.kcache
+        ~/.cache/plasma-svgelements-Acid-Dark* \
+        ~/.cache/plasma_theme_Acid-Dark*.kcache
     _msg "Done!"
 }
 

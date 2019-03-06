@@ -3,13 +3,13 @@ Comment=Acid-Dark Style
 
 Encoding=UTF-8
 Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
-Name=Darkine
+Name=Acid-Dark
 
 Type=Service
 
 X-KDE-ServiceTypes=Plasma/LookAndFeel
 X-KDE-ParentApp=
-X-KDE-PluginInfo-Author=Rokin
+X-KDE-PluginInfo-Author=Stefan Z Camilleri
 X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Email=
 X-KDE-PluginInfo-License=CCPL:by-sa

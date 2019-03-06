@@ -114,7 +114,7 @@ PlasmaCore.ColorScope {
             actionItems: [
                 ActionButton {
                     //iconSource: "system-suspend"
-                    iconSource: "/usr/share/sddm/themes/Darkine/components/artwork/suspend.svgz"
+                    iconSource: "/usr/share/sddm/themes/Acid-Dark/components/artwork/suspend.svgz"
                     text: i18nd("plasma_lookandfeel_org.kde.lookandfeel","Suspend")
                     onClicked: sddm.suspend()
                     enabled: sddm.canSuspend
@@ -122,7 +122,7 @@ PlasmaCore.ColorScope {
                 },
                 ActionButton {
                     //iconSource: "system-reboot"
-                    iconSource: "/usr/share/sddm/themes/Darkine/components/artwork/reboot.svgz"
+                    iconSource: "/usr/share/sddm/themes/Acid-Dark/components/artwork/reboot.svgz"
                     text: i18nd("plasma_lookandfeel_org.kde.lookandfeel","Restart")
                     onClicked: sddm.reboot()
                     enabled: sddm.canReboot
@@ -130,7 +130,7 @@ PlasmaCore.ColorScope {
                 },
                 ActionButton {
                     //iconSource: "system-shutdown"
-                    iconSource: "/usr/share/sddm/themes/Darkine/components/artwork/shutdown.svgz"
+                    iconSource: "/usr/share/sddm/themes/Acid-Dark/components/artwork/shutdown.svgz"
                     text: i18nd("plasma_lookandfeel_org.kde.lookandfeel","Shutdown")
                     onClicked: sddm.powerOff()
                     enabled: sddm.canPowerOff
@@ -138,7 +138,7 @@ PlasmaCore.ColorScope {
                 },
                 ActionButton {
                     //iconSource: "system-search"
-                    iconSource: "/usr/share/sddm/themes/Darkine/components/artwork/switch-user.svgz"
+                    iconSource: "/usr/share/sddm/themes/Acid-Dark/components/artwork/switch-user.svgz"
                     text: i18nd("plasma_lookandfeel_org.kde.lookandfeel","Different User")
                     onClicked: mainStack.push(userPromptComponent)
                     enabled: true
