@@ -79,7 +79,7 @@
  </g>
  <g>
   <title>Layer 1</title>
-  <g fill="#641d7e" transform="matrix(1.5,0,0,1,4,-1) " id="progress-normal">
+  <g fill="#c6ff00" transform="matrix(1.5,0,0,1,4,-1) " id="progress-normal">
    <rect opacity="0.2" fill="#c6ff00" stroke-width="0.306759" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" y="162" x="34" height="8" width="8" id="rect5175"/>
   </g>
   <g id="progress-normal-lefttyry">
@@ -150,9 +150,9 @@
    <path fill="#1d1d1d" transform="translate(0,9.5) scale(1,-1) " d="m352.1,-207l6.8,0c0.8864,0 1.6,0.669 1.6,1.5c0,0.831 -0.7136,1.5 -1.6,1.5l-6.8,0c-0.8864,0 -1.6,-0.669 -1.6,-1.5c0,-0.831 0.7136,-1.5 1.6,-1.5z" id="rect7313"/>
   </g>
   <path fill="#2e2e2e" fill-rule="evenodd" d="m7,27l0,32l32,0l0,-32l-32,0z" id="button-normal"/>
-  <g fill-rule="evenodd" fill="#5d3263" id="menuitem-tearoff-focused">
-   <rect opacity="0" fill="#5d3263" transform="matrix(0,1,-1,0,0,0) " y="-331" x="541" height="9" width="7" id="rect7888"/>
-   <path fill="#5d3263" d="m328.7385,543.5l-2.2462,0l0,2l2.2462,0l0,-2zm-4.4924,0l-2.2461,0l0,2l2.2461,0l0,-2z" id="path7945"/>
+  <g fill-rule="evenodd" fill="#c6ff00" id="menuitem-tearoff-focused">
+   <rect opacity="0" fill="#c6ff00" transform="matrix(0,1,-1,0,0,0) " y="-331" x="541" height="9" width="7" id="rect7888"/>
+   <path fill="#c6ff00" d="m328.7385,543.5l-2.2462,0l0,2l2.2462,0l0,-2zm-4.4924,0l-2.2461,0l0,2l2.2461,0l0,-2z" id="path7945"/>
   </g>
   <g fill-opacity="0.01" transform="matrix(1.1428571,0,0,1,-38.285716,-300) " id="splitter-grip-normal">
    <rect fill-opacity="0" y="1039" x="275" height="32" width="7" id="rect4829"/>
@@ -189,7 +189,7 @@
   </g>
   <g id="resize-grip-focused">
    <rect opacity="0" fill="#7b7b7b" y="24.5" x="417" height="25" width="25" id="rect4970"/>
-   <path opacity="0.001" fill="#5d3263" d="m440.5859,28.0859c-7.80469,7.80469 -15.6094,15.6094 -23.4141,23.4141c8.9427,0 17.8854,0 26.8281,0c0,-8.94271 0,-17.8854 0,-26.8281c-1.13802,1.13802 -2.27604,2.27604 -3.41406,3.41406l0.00006,-0.00006z" id="path4972"/>
+   <path opacity="0.001" fill="#c6ff00" d="m440.5859,28.0859c-7.80469,7.80469 -15.6094,15.6094 -23.4141,23.4141c8.9427,0 17.8854,0 26.8281,0c0,-8.94271 0,-17.8854 0,-26.8281c-1.13802,1.13802 -2.27604,2.27604 -3.41406,3.41406l0.00006,-0.00006z" id="path4972"/>
   </g>
   <rect fill="#241c2c" fill-rule="evenodd" y="888" x="52" height="4" width="8" id="itemview-pressed-top"/>
   <rect fill="#241c2c" fill-rule="evenodd" y="900" x="52" height="4" width="8" id="itemview-pressed-bottom"/>
@@ -274,9 +274,9 @@
    <path opacity="0.25" fill="url(#radialGradient6746-6)" d="m12.50045,556l0,5l5,0l-0.0005,-5l-4.9995,0z" id="menu-shadow-bottomleft"/>
    <path opacity="0.28" fill="url(#radialGradient6744-9)" d="m75.50045,556l0.0003,5l5,0l0,-5l-5.0003,0z" id="menu-shadow-bottomright"/>
   </g>
-  <rect fill="#b74aff" y="556" x="46.75" height="5" width="2.5" id="menu-shadow-hint-bottom"/>
-  <rect fill="#b74aff" transform="matrix(0,-1,1,0,0,0) " y="75.5" x="-525" height="5" width="2.5" id="menu-shadow-hint-right"/>
-  <rect fill="#b74aff" transform="matrix(0,-1,1,0,0,0) " y="12.5" x="-525" height="5" width="2.5" id="menu-shadow-hint-left"/>
+  <rect fill="#c6ff00" y="556" x="46.75" height="5" width="2.5" id="menu-shadow-hint-bottom"/>
+  <rect fill="#c6ff00" transform="matrix(0,-1,1,0,0,0) " y="75.5" x="-525" height="5" width="2.5" id="menu-shadow-hint-right"/>
+  <rect fill="#c6ff00" transform="matrix(0,-1,1,0,0,0) " y="12.5" x="-525" height="5" width="2.5" id="menu-shadow-hint-left"/>
   <g fill-rule="evenodd" id="g413">
    <g fill="#222222" id="g415">
     <path fill="#222222" d="m160.4997,497l0,5l-48,0l0,-5l48,0z" id="menu-normal-top"/>
@@ -311,7 +311,7 @@
    <path opacity="0.3" fill="#191919" d="m17.5005,491l0,2.5l58,0l0,-2.5l-58,0z" id="menu-shadow-top0"/>
    <path fill="#191919" d="m17.5,493.5l0,2.5l58,0l0,-2.5l-58,0z" id="path4856"/>
   </g>
-  <rect fill="#b74aff" y="491" x="45.49" height="2.5" width="2.5" id="menu-shadow-hint-top"/>
+  <rect fill="#c6ff00" y="491" x="45.49" height="2.5" width="2.5" id="menu-shadow-hint-top"/>
   <g id="g483">
    <g fill="#1d1d1d" fill-rule="evenodd" id="g485">
     <path fill="#1d1d1d" d="m78.5,103.5l-6,0l0,6l6,0l0,-6z" id="header-normal-bottom"/>
@@ -425,7 +425,7 @@
     <rect y="626" x="15" height="10" width="10" id="tab-toggled-left"/>
     <rect y="616" x="15" height="10" width="10" id="tab-toggled-topleft"/>
    </g>
-   <g fill="#641d7e" id="g597">
+   <g fill="#c6ff00" id="g597">
     <rect fill="#c6ff00" y="636" x="25" height="10" width="10" id="tab-toggled-bottom"/>
     <rect fill="#c6ff00" y="636" x="35" height="10" width="10" id="tab-toggled-bottomright"/>
     <rect fill="#c6ff00" y="636" x="15" height="10" width="10" id="tab-toggled-bottomleft"/>
@@ -646,19 +646,19 @@
    <rect opacity="0.001" fill="#000000" y="345.999994" x="88.000004" height="16" width="16" id="rect5305"/>
    <path fill="#f04a50" d="m96.000004,349.999294a4,4 0 0 0 -4,4a4,4 0 0 0 4,4a4,4 0 0 0 4,-4a4,4 0 0 0 -4,-4zm0,2a2,2 0 0 1 2,2a2,2 0 0 1 -2,2a2,2 0 0 1 -2,-2a2,2 0 0 1 2,-2z" id="path5307"/>
   </g>
-  <g fill="#5d3263" id="mdi-close-pressed">
+  <g fill="#c6ff00" id="mdi-close-pressed">
    <rect opacity="0.001" fill="#c6ff00" y="363.000001" x="34.000004" height="16" width="16" id="rect5311"/>
    <path fill="#c6ff00" d="m45.002414,366.994061a1,1 0 0 0 -0.70703,0.29297l-2.29297,2.29297l-2.2832,-2.2832a1,1 0 0 0 -0.00999,-0.01a1,1 0 0 0 -0.70117,-0.28906l-0.01,0.0137a1,1 0 0 0 -1,1a1,1 0 0 0 0.29297,0.70703l2.29296,2.29297l-2.29296,2.29297a1,1 0 0 0 -0.28906,0.69922a1,1 0 0 0 1,1a1,1 0 0 0 0.70703,-0.29297l2.29297,-2.29297l2.2832,2.2832a1,1 0 0 0 0.7168,0.30274a1,1 0 0 0 1,-1a1,1 0 0 0 -0.29297,-0.70703l-2.30078,-2.29883l2.2832,-2.2832a1,1 0 0 0 0.31055,-0.72071a1,1 0 0 0 -1,-1l0.00045,0.0002z" class="ColorScheme-Text" id="path5313"/>
   </g>
-  <g fill="#5d3263" id="mdi-minimize-pressed">
+  <g fill="#c6ff00" id="mdi-minimize-pressed">
    <rect opacity="0.001" fill="#c6ff00" y="363.000001" x="52.000004" height="16" width="16" id="rect5317"/>
    <rect fill="#c6ff00" ry="1" rx="1" y="370.000001" x="56.000004" height="2" width="8" id="rect5319"/>
   </g>
-  <g fill="#5d3263" id="mdi-maximize-pressed">
+  <g fill="#c6ff00" id="mdi-maximize-pressed">
    <rect opacity="0.001" fill="#c6ff00" y="363.000001" x="70.000004" height="16" width="16" id="rect5323"/>
    <path fill="#c6ff00" d="m78.000004,366.999301c-0.554,0 -1,0.446 -1,1l0,2l-2,0c-0.554,0 -1,0.446 -1,1c0,0.554 0.446,1 1,1l2,0l0,2c0,0.554 0.446,1 1,1c0.554,0 1,-0.446 1,-1l0,-2l2,0c0.554,0 1,-0.446 1,-1c0,-0.554 -0.446,-1 -1,-1l-2,0l0,-2c0,-0.554 -0.446,-1 -1,-1z" id="path5325"/>
   </g>
-  <g fill="#5d3263" id="mdi-restore-pressed">
+  <g fill="#c6ff00" id="mdi-restore-pressed">
    <rect opacity="0.001" fill="#c6ff00" y="363.000001" x="88.000004" height="16" width="16" id="rect5329"/>
    <path fill="#c6ff00" d="m96.000004,366.999301a4,4 0 0 0 -4,4a4,4 0 0 0 4,4a4,4 0 0 0 4,-4a4,4 0 0 0 -4,-4zm0,2a2,2 0 0 1 2,2a2,2 0 0 1 -2,2a2,2 0 0 1 -2,-2a2,2 0 0 1 2,-2z" id="path5331"/>
   </g>
@@ -682,375 +682,375 @@
    <rect opacity="0.001" fill="#000000" y="329.000001" x="115.000004" height="16" width="16" id="rect5372"/>
    <path fill="#cfd8dc" d="m120.000004,332.999301c-0.554,0 -1,0.446 -1,1c0,0.554 0.446,1 1,1l6,0c0.554,0 1,-0.446 1,-1c0,-0.554 -0.446,-1 -1,-1l-6,0zm0,3c-0.554,0 -1,0.446 -1,1c0,0.554 0.446,1 1,1l6,0c0.554,0 1,-0.446 1,-1c0,-0.554 -0.446,-1 -1,-1l-6,0zm0,3c-0.554,0 -1,0.446 -1,1c0,0.554 0.446,1 1,1l6,0c0.554,0 1,-0.446 1,-1c0,-0.554 -0.446,-1 -1,-1l-6,0z" id="rect5374"/>
   </g>
-  <g fill="#62356a" id="tarrow-right-normal">
+  <g fill="#c6ff00" id="tarrow-right-normal">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="259.000061" x="22" height="8" width="8" id="rect4999"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m29.000003,263.000065l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5001"/>
   </g>
-  <g fill="#62356a" id="tarrow-right-focused">
+  <g fill="#c6ff00" id="tarrow-right-focused">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="259.000061" x="32" height="8" width="8" id="rect5016"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m39.000003,263.000065l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5019"/>
   </g>
-  <g fill="#62356a" id="tarrow-right-pressed">
+  <g fill="#c6ff00" id="tarrow-right-pressed">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="259.000061" x="42" height="8" width="8" id="rect5023"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m49.000003,263.000065l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5025"/>
   </g>
-  <g fill="#62356a" id="tarrow-right-toggled">
+  <g fill="#c6ff00" id="tarrow-right-toggled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="259.000061" x="52" height="8" width="8" id="rect5029"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m59.000003,263.000065l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5031"/>
   </g>
-  <g fill="#62356a" id="tarrow-right-disabled">
+  <g fill="#c6ff00" id="tarrow-right-disabled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="259.000061" x="62" height="8" width="8" id="rect5035"/>
    <path opacity="0.3" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m69.000003,263.000065l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5037"/>
   </g>
-  <g fill="#62356a" transform="matrix(-1,0,0,-1,216,807) " id="tarrow-left-normal">
+  <g fill="#c6ff00" transform="matrix(-1,0,0,-1,216,807) " id="tarrow-left-normal">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5041"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5043"/>
   </g>
-  <g fill="#62356a" transform="matrix(-1,0,0,-1,226,807) " id="tarrow-left-focused">
+  <g fill="#c6ff00" transform="matrix(-1,0,0,-1,226,807) " id="tarrow-left-focused">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5047"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5049"/>
   </g>
-  <g fill="#62356a" transform="matrix(-1,0,0,-1,236,807) " id="tarrow-left-pressed">
+  <g fill="#c6ff00" transform="matrix(-1,0,0,-1,236,807) " id="tarrow-left-pressed">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5053"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5055"/>
   </g>
-  <g fill="#62356a" transform="matrix(-1,0,0,-1,246,807) " id="tarrow-left-toggled">
+  <g fill="#c6ff00" transform="matrix(-1,0,0,-1,246,807) " id="tarrow-left-toggled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5059"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5061"/>
   </g>
-  <g fill="#62356a" transform="matrix(-1,0,0,-1,256,807) " id="tarrow-left-disabled">
+  <g fill="#c6ff00" transform="matrix(-1,0,0,-1,256,807) " id="tarrow-left-disabled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5065"/>
    <path opacity="0.3" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5067"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,-1,1,0,-507,475.00006) " id="tarrow-up-normal">
+  <g fill="#c6ff00" transform="matrix(0,-1,1,0,-507,475.00006) " id="tarrow-up-normal">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5071"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5073"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,-1,1,0,-497,475.00006) " id="tarrow-up-focused">
+  <g fill="#c6ff00" transform="matrix(0,-1,1,0,-497,475.00006) " id="tarrow-up-focused">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5077"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5080"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,-1,1,0,-487,475.00006) " id="tarrow-up-pressed">
+  <g fill="#c6ff00" transform="matrix(0,-1,1,0,-487,475.00006) " id="tarrow-up-pressed">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5084"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5086"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,-1,1,0,-477,475.00006) " id="tarrow-up-toggled">
+  <g fill="#c6ff00" transform="matrix(0,-1,1,0,-477,475.00006) " id="tarrow-up-toggled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5090"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5092"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,-1,1,0,-467,475.00006) " id="tarrow-up-disabled">
+  <g fill="#c6ff00" transform="matrix(0,-1,1,0,-467,475.00006) " id="tarrow-up-disabled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5096"/>
    <path opacity="0.3" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5098"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,1,-1,0,559,105.00006) " id="tarrow-down-normal">
+  <g fill="#c6ff00" transform="matrix(0,1,-1,0,559,105.00006) " id="tarrow-down-normal">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5102"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5104"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,1,-1,0,569,105.00006) " id="tarrow-down-focused">
+  <g fill="#c6ff00" transform="matrix(0,1,-1,0,569,105.00006) " id="tarrow-down-focused">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5108"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5110"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,1,-1,0,579,105.00006) " id="tarrow-down-pressed">
+  <g fill="#c6ff00" transform="matrix(0,1,-1,0,579,105.00006) " id="tarrow-down-pressed">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5114"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5116"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,1,-1,0,589,105.00006) " id="tarrow-down-toggled">
+  <g fill="#c6ff00" transform="matrix(0,1,-1,0,589,105.00006) " id="tarrow-down-toggled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5120"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5122"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,1,-1,0,599,105.00006) " id="tarrow-down-disabled">
+  <g fill="#c6ff00" transform="matrix(0,1,-1,0,599,105.00006) " id="tarrow-down-disabled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5126"/>
    <path opacity="0.3" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5128"/>
   </g>
-  <g fill="#62356a" id="arrow-right-normal">
+  <g fill="#c6ff00" id="arrow-right-normal">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="259.000061" x="77" height="8" width="8" id="rect5132"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m84.000003,263.000065l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5134"/>
   </g>
-  <g fill="#62356a" id="arrow-right-focused">
+  <g fill="#c6ff00" id="arrow-right-focused">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="259.000061" x="87.000008" height="8" width="8" id="rect5138"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m94.00001,263.000065l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5140"/>
   </g>
-  <g fill="#62356a" id="arrow-right-pressed">
+  <g fill="#c6ff00" id="arrow-right-pressed">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="259.000061" x="97.000008" height="8" width="8" id="rect5144"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m104.00001,263.000065l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5146"/>
   </g>
-  <g fill="#62356a" id="arrow-right-toggled">
+  <g fill="#c6ff00" id="arrow-right-toggled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="259.000061" x="107.000015" height="8" width="8" id="rect5150"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m114.000018,263.000065l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5152"/>
   </g>
-  <g fill="#62356a" id="arrow-right-disabled">
+  <g fill="#c6ff00" id="arrow-right-disabled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="259.000061" x="117.000015" height="8" width="8" id="rect5156"/>
    <path opacity="0.3" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m124.000018,263.000065l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5158"/>
   </g>
-  <g fill="#62356a" transform="matrix(-1,0,0,-1,271,807) " id="arrow-left-normal">
+  <g fill="#c6ff00" transform="matrix(-1,0,0,-1,271,807) " id="arrow-left-normal">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5162"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5164"/>
   </g>
-  <g fill="#62356a" transform="matrix(-1,0,0,-1,281,807) " id="arrow-left-focused">
+  <g fill="#c6ff00" transform="matrix(-1,0,0,-1,281,807) " id="arrow-left-focused">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5168"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5170"/>
   </g>
-  <g fill="#62356a" transform="matrix(-1,0,0,-1,291,807) " id="arrow-left-pressed">
+  <g fill="#c6ff00" transform="matrix(-1,0,0,-1,291,807) " id="arrow-left-pressed">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5174"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5176"/>
   </g>
-  <g fill="#62356a" transform="matrix(-1,0,0,-1,301,807) " id="arrow-left-toggled">
+  <g fill="#c6ff00" transform="matrix(-1,0,0,-1,301,807) " id="arrow-left-toggled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5180"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5182"/>
   </g>
-  <g fill="#62356a" transform="matrix(-1,0,0,-1,311,807) " id="arrow-left-disabled">
+  <g fill="#c6ff00" transform="matrix(-1,0,0,-1,311,807) " id="arrow-left-disabled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5186"/>
    <path opacity="0.3" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5189"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,-1,1,0,-452,475.00006) " id="arrow-up-normal">
+  <g fill="#c6ff00" transform="matrix(0,-1,1,0,-452,475.00006) " id="arrow-up-normal">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5193"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5195"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,-1,1,0,-442,475.00006) " id="arrow-up-focused">
+  <g fill="#c6ff00" transform="matrix(0,-1,1,0,-442,475.00006) " id="arrow-up-focused">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5199"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5201"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,-1,1,0,-432,475.00006) " id="arrow-up-pressed">
+  <g fill="#c6ff00" transform="matrix(0,-1,1,0,-432,475.00006) " id="arrow-up-pressed">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5205"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5207"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,-1,1,0,-422,475.00006) " id="arrow-up-toggled">
+  <g fill="#c6ff00" transform="matrix(0,-1,1,0,-422,475.00006) " id="arrow-up-toggled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5211"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5213"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,-1,1,0,-412,475.00006) " id="arrow-up-disabled">
+  <g fill="#c6ff00" transform="matrix(0,-1,1,0,-412,475.00006) " id="arrow-up-disabled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5217"/>
    <path opacity="0.3" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5219"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,1,-1,0,614,105.00006) " id="arrow-down-normal">
+  <g fill="#c6ff00" transform="matrix(0,1,-1,0,614,105.00006) " id="arrow-down-normal">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5223"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5225"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,1,-1,0,624,105.00006) " id="arrow-down-focused">
+  <g fill="#c6ff00" transform="matrix(0,1,-1,0,624,105.00006) " id="arrow-down-focused">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5229"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5231"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,1,-1,0,634,105.00006) " id="arrow-down-pressed">
+  <g fill="#c6ff00" transform="matrix(0,1,-1,0,634,105.00006) " id="arrow-down-pressed">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5235"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5237"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,1,-1,0,644,105.00006) " id="arrow-down-toggled">
+  <g fill="#c6ff00" transform="matrix(0,1,-1,0,644,105.00006) " id="arrow-down-toggled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5242"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5244"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,1,-1,0,654,105.00006) " id="arrow-down-disabled">
+  <g fill="#c6ff00" transform="matrix(0,1,-1,0,654,105.00006) " id="arrow-down-disabled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5248"/>
    <path opacity="0.3" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5250"/>
   </g>
-  <g fill="#62356a" id="arrow-plus-normal">
+  <g fill="#c6ff00" id="arrow-plus-normal">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="259.000061" x="131" height="8" width="8" id="rect5252"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m134,259.000061l0,3l-3,0l0,2l3,0l0,3l2,0l0,-3l3,0l0,-2l-3,0l0,-3l-2,0z" id="rect5254"/>
   </g>
-  <g fill="#62356a" id="arrow-minus-normal">
+  <g fill="#c6ff00" id="arrow-minus-normal">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="270.000061" x="131" height="8" width="8" id="rect5258"/>
    <rect fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" transform="matrix(0,1,-1,0,0,0) " y="-139" x="273.000061" height="8" width="2" id="rect5262"/>
   </g>
-  <g fill="#62356a" id="arrow-plus-focused">
+  <g fill="#c6ff00" id="arrow-plus-focused">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="259.000061" x="141" height="8" width="8" id="rect5275"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m144,259.000061l0,3l-3,0l0,2l3,0l0,3l2,0l0,-3l3,0l0,-2l-3,0l0,-3l-2,0z" id="path5277"/>
   </g>
-  <g fill="#62356a" id="arrow-minus-focused">
+  <g fill="#c6ff00" id="arrow-minus-focused">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="270.000061" x="141.000008" height="8" width="8" id="rect5281"/>
    <rect fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" transform="matrix(0,1,-1,0,0,0) " y="-149.000008" x="273.000061" height="8" width="2" id="rect5283"/>
   </g>
-  <g fill="#62356a" id="arrow-plus-pressed">
+  <g fill="#c6ff00" id="arrow-plus-pressed">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="259.000061" x="151" height="8" width="8" id="rect5288"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m154,259.000061l0,3l-3,0l0,2l3,0l0,3l2,0l0,-3l3,0l0,-2l-3,0l0,-3l-2,0z" id="path5290"/>
   </g>
-  <g fill="#62356a" id="arrow-minus-pressed">
+  <g fill="#c6ff00" id="arrow-minus-pressed">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="270.000061" x="151" height="8" width="8" id="rect5295"/>
    <rect fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" transform="matrix(0,1,-1,0,0,0) " y="-159" x="273.000061" height="8" width="2" id="rect5297"/>
   </g>
-  <g fill="#62356a" id="arrow-plus-toggled">
+  <g fill="#c6ff00" id="arrow-plus-toggled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="259.000061" x="161" height="8" width="8" id="rect5301"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m164,259.000061l0,3l-3,0l0,2l3,0l0,3l2,0l0,-3l3,0l0,-2l-3,0l0,-3l-2,0z" id="path5303"/>
   </g>
-  <g fill="#62356a" id="arrow-minus-toggled">
+  <g fill="#c6ff00" id="arrow-minus-toggled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="270.000061" x="161" height="8" width="8" id="rect5307"/>
    <rect fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" transform="matrix(0,1,-1,0,0,0) " y="-169" x="273.000061" height="8" width="2" id="rect5309"/>
   </g>
-  <g fill="#62356a" id="arrow-plus-disabled">
+  <g fill="#c6ff00" id="arrow-plus-disabled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="259.000061" x="171" height="8" width="8" id="rect5313"/>
    <path opacity="0.3" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m174,259.000061l0,3l-3,0l0,2l3,0l0,3l2,0l0,-3l3,0l0,-2l-3,0l0,-3l-2,0z" id="path5315"/>
   </g>
-  <g fill="#62356a" id="arrow-minus-disabled">
+  <g fill="#c6ff00" id="arrow-minus-disabled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="270.000061" x="171" height="8" width="8" id="rect5321"/>
    <rect opacity="0.3" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" transform="matrix(0,1,-1,0,0,0) " y="-179" x="273.000061" height="8" width="2" id="rect5324"/>
   </g>
-  <g fill="#62356a" id="tree-plus-normal">
+  <g fill="#c6ff00" id="tree-plus-normal">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="281.000061" x="131.000004" height="8" width="8" id="rect5330"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m138.000006,285.000065l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5333"/>
   </g>
-  <g fill="#62356a" id="tree-plus-focused">
+  <g fill="#c6ff00" id="tree-plus-focused">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="281.000061" x="141.000004" height="8" width="8" id="rect5337"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m148.000006,285.000065l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5340"/>
   </g>
-  <g fill="#62356a" id="tree-plus-pressed">
+  <g fill="#c6ff00" id="tree-plus-pressed">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="281.000061" x="151.000004" height="8" width="8" id="rect5344"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m158.000006,285.000065l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5346"/>
   </g>
-  <g fill="#62356a" id="tree-plus-toggled">
+  <g fill="#c6ff00" id="tree-plus-toggled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="281.000061" x="161.000013" height="8" width="8" id="rect5351"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m168.000016,285.000065l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5353"/>
   </g>
-  <g fill="#62356a" id="tree-plus-disabled">
+  <g fill="#c6ff00" id="tree-plus-disabled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="281.000061" x="171.000011" height="8" width="8" id="rect5357"/>
    <path opacity="0.3" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m178.000014,285.000065l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5359"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,1,-1,0,668,105.00006) " id="tree-minus-normal">
+  <g fill="#c6ff00" transform="matrix(0,1,-1,0,668,105.00006) " id="tree-minus-normal">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5363"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5365"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,1,-1,0,678,105.00006) " id="tree-minus-focused">
+  <g fill="#c6ff00" transform="matrix(0,1,-1,0,678,105.00006) " id="tree-minus-focused">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5369"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5371"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,1,-1,0,688,105.00006) " id="tree-minus-pressed">
+  <g fill="#c6ff00" transform="matrix(0,1,-1,0,688,105.00006) " id="tree-minus-pressed">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5375"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5377"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,1,-1,0,698,105.00006) " id="tree-minus-toggled">
+  <g fill="#c6ff00" transform="matrix(0,1,-1,0,698,105.00006) " id="tree-minus-toggled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5381"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5383"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,1,-1,0,708,105.00006) " id="tree-minus-disabled">
+  <g fill="#c6ff00" transform="matrix(0,1,-1,0,708,105.00006) " id="tree-minus-disabled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5387"/>
    <path opacity="0.3" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5389"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,1,-1,0,723,72.00006) " id="flat-arrow-down-normal">
+  <g fill="#c6ff00" transform="matrix(0,1,-1,0,723,72.00006) " id="flat-arrow-down-normal">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5393"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5395"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,1,-1,0,733,72.00006) " id="flat-arrow-down-focused">
+  <g fill="#c6ff00" transform="matrix(0,1,-1,0,733,72.00006) " id="flat-arrow-down-focused">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5399"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5401"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,1,-1,0,743,72.00006) " id="flat-arrow-down-disabled">
+  <g fill="#c6ff00" transform="matrix(0,1,-1,0,743,72.00006) " id="flat-arrow-down-disabled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5417"/>
    <path opacity="0.3" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5419"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,1,-1,0,668,117.00012) " id="carrow-normal">
+  <g fill="#c6ff00" transform="matrix(0,1,-1,0,668,117.00012) " id="carrow-normal">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5008"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5011"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,1,-1,0,678,117.00012) " id="carrow-focused">
+  <g fill="#c6ff00" transform="matrix(0,1,-1,0,678,117.00012) " id="carrow-focused">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5017"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5021"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,1,-1,0,688,117.00012) " id="carrow-pressed">
+  <g fill="#c6ff00" transform="matrix(0,1,-1,0,688,117.00012) " id="carrow-pressed">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5025"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5027"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,1,-1,0,698,117.00012) " id="carrow-toggled">
+  <g fill="#c6ff00" transform="matrix(0,1,-1,0,698,117.00012) " id="carrow-toggled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5031"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5033"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,1,-1,0,708,117.00012) " id="carrow-disabled">
+  <g fill="#c6ff00" transform="matrix(0,1,-1,0,708,117.00012) " id="carrow-disabled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5037"/>
    <path opacity="0.3" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5039"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,-1,-1,0,723,463.00012) " id="flat-arrow-up-normal">
+  <g fill="#c6ff00" transform="matrix(0,-1,-1,0,723,463.00012) " id="flat-arrow-up-normal">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5021"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5023"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,-1,-1,0,733,463.00012) " id="flat-arrow-up-focused">
+  <g fill="#c6ff00" transform="matrix(0,-1,-1,0,733,463.00012) " id="flat-arrow-up-focused">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5027"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5029"/>
   </g>
-  <g fill="#62356a" transform="matrix(0,-1,-1,0,743,463.00012) " id="flat-arrow-up-disabled">
+  <g fill="#c6ff00" transform="matrix(0,-1,-1,0,743,463.00012) " id="flat-arrow-up-disabled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5045"/>
    <path opacity="0.3" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5047"/>
   </g>
-  <g fill="#62356a" transform="matrix(-1,0,0,-1,380,817.0001) " id="flat-arrow-left-normal">
-   <rect opacity="0.001" fill="#62356a" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5051"/>
+  <g fill="#c6ff00" transform="matrix(-1,0,0,-1,380,817.0001) " id="flat-arrow-left-normal">
+   <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5051"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5053"/>
   </g>
-  <g fill="#62356a" transform="matrix(-1,0,0,-1,390,817.0001) " id="flat-arrow-left-focused">
-   <rect opacity="0.001" fill="#62356a" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5057"/>
+  <g fill="#c6ff00" transform="matrix(-1,0,0,-1,390,817.0001) " id="flat-arrow-left-focused">
+   <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5057"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5059"/>
   </g>
-  <g fill="#62356a" transform="matrix(-1,0,0,-1,400,817.0001) " id="flat-arrow-left-disabled">
+  <g fill="#c6ff00" transform="matrix(-1,0,0,-1,400,817.0001) " id="flat-arrow-left-disabled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5063"/>
    <path opacity="0.3" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5065"/>
   </g>
-  <g fill="#62356a" transform="matrix(1,0,0,-1,0.00000706,828.0001) " id="flat-arrow-right-normal">
-   <rect opacity="0.001" fill="#62356a" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5069"/>
+  <g fill="#c6ff00" transform="matrix(1,0,0,-1,0.00000706,828.0001) " id="flat-arrow-right-normal">
+   <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5069"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5071"/>
   </g>
-  <g fill="#62356a" transform="matrix(1,0,0,-1,10.000007,828.0001) " id="flat-arrow-right-focused">
-   <rect opacity="0.001" fill="#62356a" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5075"/>
+  <g fill="#c6ff00" transform="matrix(1,0,0,-1,10.000007,828.0001) " id="flat-arrow-right-focused">
+   <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5075"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5078"/>
   </g>
-  <g fill="#62356a" transform="matrix(1,0,0,-1,20.000007,828.0001) " id="flat-arrow-right-disabled">
+  <g fill="#c6ff00" transform="matrix(1,0,0,-1,20.000007,828.0001) " id="flat-arrow-right-disabled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="529" x="186" height="8" width="8" id="rect5082"/>
    <path opacity="0.3" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m193.000003,533.000004l-2.500006,2l-2.499999,2l0,-4l0,-4l2.499999,2l2.500006,2z" id="path5084"/>
   </g>
-  <g fill="#62356a" id="spin-plus-normal">
+  <g fill="#c6ff00" id="spin-plus-normal">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="259.000061" x="219" height="8" width="8" id="rect5088"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m222,259.000061l0,3l-3,0l0,2l3,0l0,3l2,0l0,-3l3,0l0,-2l-3,0l0,-3l-2,0z" id="path5090"/>
   </g>
-  <g fill="#62356a" id="spin-minus-normal">
+  <g fill="#c6ff00" id="spin-minus-normal">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="270.000061" x="219" height="8" width="8" id="rect5094"/>
    <rect fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" transform="matrix(0,1,-1,0,0,0) " y="-227" x="273.000061" height="8" width="2" id="rect5097"/>
   </g>
-  <g fill="#62356a" id="spin-plus-focused">
+  <g fill="#c6ff00" id="spin-plus-focused">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="259.000061" x="229" height="8" width="8" id="rect5101"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m232,259.000061l0,3l-3,0l0,2l3,0l0,3l2,0l0,-3l3,0l0,-2l-3,0l0,-3l-2,0z" id="path5103"/>
   </g>
-  <g fill="#62356a" id="spin-minus-focused">
+  <g fill="#c6ff00" id="spin-minus-focused">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="270.000061" x="229" height="8" width="8" id="rect5107"/>
    <rect fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" transform="matrix(0,1,-1,0,0,0) " y="-237" x="273.000061" height="8" width="2" id="rect5110"/>
   </g>
-  <g fill="#62356a" id="spin-plus-pressed">
+  <g fill="#c6ff00" id="spin-plus-pressed">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="259.000061" x="239" height="8" width="8" id="rect5115"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m242,259.000061l0,3l-3,0l0,2l3,0l0,3l2,0l0,-3l3,0l0,-2l-3,0l0,-3l-2,0z" id="path5117"/>
   </g>
-  <g fill="#62356a" id="spin-minus-pressed">
+  <g fill="#c6ff00" id="spin-minus-pressed">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="270.000061" x="239" height="8" width="8" id="rect5121"/>
    <rect fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" transform="matrix(0,1,-1,0,0,0) " y="-247" x="273.000061" height="8" width="2" id="rect5123"/>
   </g>
-  <g fill="#62356a" id="spin-plus-disabled">
+  <g fill="#c6ff00" id="spin-plus-disabled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="259.000061" x="249" height="8" width="8" id="rect5140"/>
    <path opacity="0.3" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m252,259.000061l0,3l-3,0l0,2l3,0l0,3l2,0l0,-3l3,0l0,-2l-3,0l0,-3l-2,0z" id="path5142"/>
   </g>
-  <g fill="#62356a" id="spin-minus-disabled">
+  <g fill="#c6ff00" id="spin-minus-disabled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="270.000061" x="249" height="8" width="8" id="rect5146"/>
    <rect opacity="0.3" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" transform="matrix(0,1,-1,0,0,0) " y="-257" x="273.000061" height="8" width="2" id="rect5148"/>
   </g>
-  <g fill="#62356a" id="spin-up-normal">
+  <g fill="#c6ff00" id="spin-up-normal">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="280.000118" x="219" height="8" width="8" id="rect5152"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m222,280.000118l0,3l-3,0l0,2l3,0l0,3l2,0l0,-3l3,0l0,-2l-3,0l0,-3l-2,0z" id="path5154"/>
   </g>
-  <g fill="#62356a" id="spin-down-normal">
+  <g fill="#c6ff00" id="spin-down-normal">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="291.00012" x="219" height="8" width="8" id="rect5158"/>
    <rect fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" transform="matrix(0,1,-1,0,0,0) " y="-227" x="294.00012" height="8" width="2" id="rect5160"/>
   </g>
-  <g fill="#62356a" id="spin-up-focused">
+  <g fill="#c6ff00" id="spin-up-focused">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="280.000118" x="229" height="8" width="8" id="rect5164"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m232,280.000118l0,3l-3,0l0,2l3,0l0,3l2,0l0,-3l3,0l0,-2l-3,0l0,-3l-2,0z" id="path5166"/>
   </g>
-  <g fill="#62356a" id="spin-down-focused">
+  <g fill="#c6ff00" id="spin-down-focused">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="291.00012" x="229" height="8" width="8" id="rect5170"/>
    <rect fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" transform="matrix(0,1,-1,0,0,0) " y="-237" x="294.00012" height="8" width="2" id="rect5172"/>
   </g>
-  <g fill="#62356a" id="spin-up-pressed">
+  <g fill="#c6ff00" id="spin-up-pressed">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="280.000118" x="239" height="8" width="8" id="rect5176"/>
    <path fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m242,280.000118l0,3l-3,0l0,2l3,0l0,3l2,0l0,-3l3,0l0,-2l-3,0l0,-3l-2,0z" id="path5178"/>
   </g>
-  <g fill="#62356a" id="spin-down-pressed">
+  <g fill="#c6ff00" id="spin-down-pressed">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="291.00012" x="239" height="8" width="8" id="rect5182"/>
    <rect fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" transform="matrix(0,1,-1,0,0,0) " y="-247" x="294.00012" height="8" width="2" id="rect5184"/>
   </g>
-  <g fill="#62356a" id="spin-up-disabled">
+  <g fill="#c6ff00" id="spin-up-disabled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="280.000118" x="249" height="8" width="8" id="rect5188"/>
    <path opacity="0.3" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="m252,280.000118l0,3l-3,0l0,2l3,0l0,3l2,0l0,-3l3,0l0,-2l-3,0l0,-3l-2,0z" id="path5191"/>
   </g>
-  <g fill="#62356a" id="spin-down-disabled">
+  <g fill="#c6ff00" id="spin-down-disabled">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="291.00012" x="249" height="8" width="8" id="rect5195"/>
    <rect opacity="0.3" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" transform="matrix(0,1,-1,0,0,0) " y="-257" x="294.00012" height="8" width="2" id="rect5197"/>
   </g>
@@ -1149,40 +1149,40 @@
   <rect opacity="0.2" fill="#c6ff00" stroke-width="0.306759" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" y="149" x="106" height="12" width="12" id="progress-pattern-disabled-topright"/>
   <rect opacity="0.2" fill="#c6ff00" stroke-width="0.306759" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" y="169" x="82" height="12" width="12" id="progress-pattern-disabled-bottomleft"/>
   <rect opacity="0.2" fill="#c6ff00" stroke-width="0.306759" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" y="169" x="106" height="12" width="12" id="progress-pattern-disabled-bottomright"/>
-  <g fill="#641d7e" transform="matrix(1.5,0,0,1,-35,-1) " id="progress-pattern-normal">
+  <g fill="#c6ff00" transform="matrix(1.5,0,0,1,-35,-1) " id="progress-pattern-normal">
    <rect fill="#c6ff00" stroke-width="0.306759" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" y="162" x="34" height="8" width="8" id="progress-pattern-normal22"/>
   </g>
-  <g fill="#641d7e" transform="matrix(1.5,0,0,1,-47,-1) " id="progress-pattern-normal-left">
+  <g fill="#c6ff00" transform="matrix(1.5,0,0,1,-47,-1) " id="progress-pattern-normal-left">
    <rect fill="#c6ff00" stroke-width="0.306759" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" y="162" x="34" height="8" width="8" id="rect5155"/>
   </g>
-  <g fill="#641d7e" transform="matrix(1.5,0,0,1,-23,-1) " id="progress-pattern-normal-right">
+  <g fill="#c6ff00" transform="matrix(1.5,0,0,1,-23,-1) " id="progress-pattern-normal-right">
    <rect fill="#c6ff00" stroke-width="0.306759" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" y="162" x="34" height="8" width="8" id="rect5161"/>
   </g>
-  <g fill="#641d7e" transform="matrix(1.5,0,0,1,-8,-1) " id="progress-normal-left">
+  <g fill="#c6ff00" transform="matrix(1.5,0,0,1,-8,-1) " id="progress-normal-left">
    <rect opacity="0.2" fill="#c6ff00" stroke-width="0.306759" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" y="162" x="34" height="8" width="8" id="rect5167"/>
   </g>
-  <g fill="#641d7e" transform="matrix(1.5,0,0,1,16,-1) " id="progress-normal-right">
+  <g fill="#c6ff00" transform="matrix(1.5,0,0,1,16,-1) " id="progress-normal-right">
    <rect opacity="0.2" fill="#c6ff00" stroke-width="0.306759" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" y="162" x="34" height="8" width="8" id="rect5187"/>
   </g>
-  <g fill="#641d7e" transform="matrix(1.5,0,0,1,31,-1) " id="progress-pattern-disabled-left">
+  <g fill="#c6ff00" transform="matrix(1.5,0,0,1,31,-1) " id="progress-pattern-disabled-left">
    <rect opacity="0.2" fill="#c6ff00" stroke-width="0.306759" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" y="162" x="34" height="8" width="8" id="rect5194"/>
   </g>
-  <g fill="#641d7e" transform="matrix(1.5,0,0,1,43,-1) " id="progress-pattern-disabled">
+  <g fill="#c6ff00" transform="matrix(1.5,0,0,1,43,-1) " id="progress-pattern-disabled">
    <rect opacity="0.2" fill="#c6ff00" stroke-width="0.306759" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" y="162" x="34" height="8" width="8" id="rect5200"/>
   </g>
-  <g fill="#641d7e" transform="matrix(1.5,0,0,1,55,-1) " id="progress-pattern-disabled-right">
+  <g fill="#c6ff00" transform="matrix(1.5,0,0,1,55,-1) " id="progress-pattern-disabled-right">
    <rect opacity="0.2" fill="#c6ff00" stroke-width="0.306759" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" y="162" x="34" height="8" width="8" id="rect5206"/>
   </g>
-  <g fill="#5d3263" transform="matrix(0,-1,1,0,91,441) " id="slidercursor-normal">
+  <g fill="#c6ff00" transform="matrix(0,-1,1,0,91,441) " id="slidercursor-normal">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="264" x="17" height="22" width="22" id="rect4165"/>
    <path fill="#c6ff00" fill-rule="evenodd" stroke-width="0.876" d="m18,275.00005c2.94116,2.35296 6.20273,7.99995 11.7256,7.99995c5.52282,0 8.27813,-3.76473 8.2744,-7.99995c-0.0033,-4.23587 -2.75158,-8.00005 -8.2744,-8.00005c-5.52283,0 -8.78442,5.64709 -11.7256,8.00005z" id="slidercursor-normal-3"/>
   </g>
-  <g fill="#5d3263" transform="matrix(0,-1,1,0,114,441) " id="slidercursor-focused">
+  <g fill="#c6ff00" transform="matrix(0,-1,1,0,114,441) " id="slidercursor-focused">
    <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="263.833333" x="17" height="22" width="22" id="rect4173"/>
    <path fill="#c6ff00" fill-rule="evenodd" stroke-width="0.876" d="m39,274.833333c-0.0036,-4.76536 -3.02568,-9 -9.10078,-9c-6.07512,0 -9.66392,6.35292 -12.89922,9c3.23527,2.64707 6.82407,9 12.89922,9c6.0751,0 9.10488,-4.23538 9.10078,-9z" id="path4216"/>
   </g>
-  <g fill="#5d3263" id="slidercursor-pressed">
-   <rect opacity="0.001" fill="#5d3263" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" transform="matrix(0,-1,1,0,0,0) " y="331" x="-424" height="22" width="22" id="rect5165"/>
+  <g fill="#c6ff00" id="slidercursor-pressed">
+   <rect opacity="0.001" fill="#c6ff00" fill-rule="nonzero" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" transform="matrix(0,-1,1,0,0,0) " y="331" x="-424" height="22" width="22" id="rect5165"/>
    <path clip-rule="nonzero" opacity="0.2" fill="#c6ff00" fill-rule="evenodd" stroke-width="8" stroke-miterlimit="4" stroke-dashoffset="0" d="m342,402c-4.76536,0.004 -9,3.02646 -9,9.10156c0,6.07512 6.35292,9.66314 9,12.89844c2.64707,-3.23527 9,-6.82329 9,-12.89844c0,-6.0751 -4.23538,-9.10566 -9,-9.10156z" id="path5194"/>
    <path clip-rule="nonzero" fill="#c6ff00" fill-rule="evenodd" stroke-width="6" stroke-miterlimit="4" stroke-dashoffset="0" d="m342.00391,406c-1.538,0.001 -2.7786,0.47948 -3.58985,1.22266c-0.81125,0.74317 -1.41406,1.77075 -1.41406,3.8789c0,1.64326 0.82865,3.06372 2.43555,4.78906c0.72809,0.78187 1.68049,1.72709 2.56445,2.52735c0.88396,-0.80026 1.83636,-1.74549 2.56445,-2.52735c1.60672,-1.72534 2.43555,-3.14578 2.43555,-4.78906c0,-2.10799 -0.60473,-3.1372 -1.41602,-3.88086c-0.81128,-0.74365 -2.04686,-1.2217 -3.58007,-1.2207z" id="path5173"/>
   </g>
